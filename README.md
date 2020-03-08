@@ -41,3 +41,4 @@ Features to implement next:
 - Randomize placement of the ships at the start of each game
 - Make better graphics, maybe add sound effects?
 - Make a 2-player version of the game!
+![image description](/Users/naglaaogabih/Desktop/IMG_0929.jpg)
